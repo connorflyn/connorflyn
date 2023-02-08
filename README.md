@@ -2,7 +2,7 @@
 
  -  ⚡ I am a data engineer at Ryan-Miranda Partners in Pasadena, California and live in Boston, Massachusetts
  - 🧠 I am an Certified AWS Cloud Practioner & have a Bachlors degree in Mathematics and Economics
- - 📫 Reach me at connor@ryan-miranda.com or flynnstone29@gmail.com
+ - 📫 Reach me at connor@ryan-miranda.com or connor.q.flynn@gamil.com
  - 🔭 [LinkedIn Profile](https://www.linkedin.com/in/connor-flynn-940707181/)
 
 
