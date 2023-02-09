@@ -33,6 +33,7 @@
 
 ![Connor's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorflyn&show_icons=true&langs_count=8)
 
+![Connor's github stats](https://github-readme-stats.vercel.app/api?username=connorflyn&show_icons=true&count_private=true)
 
 
 ## 🤝🏻 Let's Keep in Touch
