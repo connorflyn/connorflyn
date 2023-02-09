@@ -5,7 +5,7 @@
 -->
 
 
-## 👋 Hello, I am Connor Flynn
+## <img src="https://raw.githubusercontent.com/connorflyn/connorflyn/master/gifs/wave.gif" width="30px"> Hello, I am Connor Flynn
 
  I am a data engineer at Ryan-Miranda Partners in Pasadena, California and live in Boston, Massachusetts. I am an Certified AWS Cloud Practioner & have a Bachlors degree in Mathematics and Economics. I am passionate aboout ETL pipelines, Data Modeling & Cloud Infrastructure
 
