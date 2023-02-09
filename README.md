@@ -44,7 +44,7 @@
 
 
 
-## 🤝🏻 Let's Keep in Touch
+## <img src="https://raw.githubusercontent.com/connorflyn/connorflyn/master/gifs/handshaking.gif" width="30px"> Let's Keep in Touch
 
 <p align="left">
 <a href="https://www.linkedin.com/in/connor-flynn-940707181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Flynn,Connor-blue?style=flat-square&logo=linkedin"></a>
