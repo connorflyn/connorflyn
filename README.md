@@ -54,5 +54,5 @@
  
  - 📫 connor@ryan-miranda.com / connor.q.flynn@gamil.com
  - 📞 +1-(508)-395-2677
- - 🔭 [LinkedIn Profile](https://www.linkedin.com/in/connor-flynn-940707181/)
+
 
