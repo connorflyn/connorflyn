@@ -37,10 +37,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
+## 📊 Coding Stats
+[![Connor's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorflyn&layout=compact)](https://github.com/connorflyn/github-readme-stats)
 
-![Connor's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorflyn&show_icons=true&langs_count=8)
-
-![Connor's github stats](https://github-readme-stats.vercel.app/api?username=connorflyn&show_icons=true&count_private=true)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=connorflyn&show_icons=true&count_private=true&theme=gruvbox)
 
 
 
