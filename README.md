@@ -1,5 +1,8 @@
 <!--
 **connorflyn/connorflyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=connorflyn.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/connorflyn?style=social)
 -->
 
 
@@ -44,7 +47,7 @@
 <a href="https://ryan-miranda.com/"><img alt="Website" src="https://img.shields.io/badge/Website-RM-maroon?style=flat-square&logo=google-chrome"></a>
 
  
- - 📫 connor@ryan-miranda.com or connor.q.flynn@gamil.com
+ - 📫 connor@ryan-miranda.com / connor.q.flynn@gamil.com
  - 📞 +1-(508)-395-2677
  - 🔭 [LinkedIn Profile](https://www.linkedin.com/in/connor-flynn-940707181/)
 
