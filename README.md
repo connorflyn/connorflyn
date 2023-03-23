@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/connorflyn/connorflyn/master/gifs/wave.gif" width="30px"> Hello, I am Connor Flynn
 
- I am a data engineer at Ryan-Miranda Partners and live in Boston, Massachusetts. I am a Certified AWS Cloud Practioner and have Bachelor degrees in Mathematics and Economics. I am passionate aboout ETL pipelines, Data Modeling and Cloud Infrastructure
+ I am a data engineer at Suffolk Construction and live in Boston, Massachusetts. I am a Certified AWS Cloud Practioner and have Bachelor degrees in Mathematics and Economics. I am passionate aboout ETL pipelines, Data Modeling and Cloud Infrastructure
 
 
 
@@ -48,10 +48,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/connor-flynn-940707181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Flynn,Connor-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.upwork.com/freelancers/~01d9da93931c25ee5b?viewMode=1"><img alt="Upwork" src="https://img.shields.io/badge/Upwrok-Flynn,Connor-green?style=flat-square&logo=upwork"></a>
-<a href="https://ryan-miranda.com/"><img alt="Website" src="https://img.shields.io/badge/Website-RM-maroon?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.suffolk.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Suffolk-navy?style=flat-square&logo=google-chrome"></a>
 
  
- - 📫 connor@ryan-miranda.com / connor.q.flynn@gamil.com
+ - 📫 connor.q.flynn@gamil.com
  - 📞 +1-(508)-395-2677
 
 
